@@ -1,0 +1,10 @@
+.texto {
+    display: block;
+    margin-top: 200px;
+    text-align: center;
+    font-family: Verdana;
+}
+#btn {
+    margin-top: 30px;
+    font-size: 20px;
+}
